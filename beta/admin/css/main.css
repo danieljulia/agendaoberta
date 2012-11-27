@@ -1,0 +1,31 @@
+body {
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+section {  
+  margin: 32px 0 0;
+}
+
+footer {
+    border-top: 1px solid #E5E5E5;
+    margin-top: 45px;
+    padding: 35px 0 36px;
+}
+
+dd { margin-bottom: 12px; }
+
+.note {
+	font-size: 0.85em;
+	color: #999;
+	font-style: italic;
+}
+
+label.control-label { font-weight: bold; }
+
+.table td.tac { text-align:center; }
+.table td.tar { text-align:right; }
+
+.editable { border-bottom: 1px dotted #c67605; }
+
+.promoted.on { display:block; height:24px; width:24px; background: transparent url(star.png) no-repeat center center;}
+.promoted.off { display:block; height:24px; width:24px; background: transparent url(star-empty.png) no-repeat center center;}

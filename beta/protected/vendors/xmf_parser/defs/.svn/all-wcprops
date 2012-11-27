@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/9/trunk/defs
+END
+mfdef.hReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/defs/mfdef.hReview.php
+END
+mfdef.geo.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/defs/mfdef.geo.php
+END
+mfdef.xfn.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/defs/mfdef.xfn.php
+END
+mfdef.rel-tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/defs/mfdef.rel-tag.php
+END
+mfdef.hCalendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/defs/mfdef.hCalendar.php
+END
+mfdef.hCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/defs/mfdef.hCard.php
+END
+mfdef.rel-license.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/defs/mfdef.rel-license.php
+END
+mfpost.general.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/trunk/defs/mfpost.general.php
+END
+mfdef.adr.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/defs/mfdef.adr.php
+END
+mfdef.hResume.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/defs/mfdef.hResume.php
+END
+mfpost.hCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/defs/mfpost.hCard.php
+END

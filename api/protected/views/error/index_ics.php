@@ -1,0 +1,1 @@
+ERROR: <?php echo CHtml::encode($message) ?>
