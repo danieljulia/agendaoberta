@@ -21,3 +21,17 @@ pimpampum.net
 info@pimpampum.net
 
 oberta.cat
+
+Aquest programa és lliure; el podeu redistribuir i/o modificar
+ d'acord amb els termes de la Llicència pública general de GNU tal 
+ i com la publica la Free Software Foundation
+
+Aquest programa es distribueix amb l'esperança que serà útil, 
+però SENSE CAP GARANTIA; ni tant sols amb la garantia de 
+COMERCIALITZABILITAT O APTITUD PER A PROPÒSITS DETERMINATS.  Vegeu
+la Llicència general pública de GNU per a més detalls. 
+http://www.gnu.org/licenses/gpl-3.0.ca.html
+
+
+
+
